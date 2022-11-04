@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ull2231
-- 👀 I’m interested in ...todo lo relacionado al area IT -Seguridad-Analisis de datos.
+- 👀 I’m interested in Desarrollo,BI,
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...todo
 - 📫 How to reach me ...
